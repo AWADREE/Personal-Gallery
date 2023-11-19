@@ -101,6 +101,7 @@ export default FlatListItem;
 const styles = StyleSheet.create({
   container: {
     height: 200,
+    marginVertical: 3,
     borderRadius: 20,
   },
   addButton: {
